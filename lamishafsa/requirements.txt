@@ -1,5 +1,5 @@
-langchain==0.1.17
-langchain_google_genai==1.0.3
-protobuf==5.26.1
+langchain
+langchain_google_genai
+protobuf
 PyPDF2==3.0.1
 python-dotenv==1.0.1
